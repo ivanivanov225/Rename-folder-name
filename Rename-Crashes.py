@@ -32,3 +32,5 @@ for i in xrange(2, rows + 2):
                                                                            ws['D%s' % i].value, y+1,
                                                                            ws['F%s' % i].value, ws['H%s' % i].value,
                                                                            ws['I%s' % i].value))
+
+
